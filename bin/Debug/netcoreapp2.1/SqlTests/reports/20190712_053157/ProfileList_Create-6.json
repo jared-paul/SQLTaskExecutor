@@ -1,0 +1,1 @@
+{"data":[{"testName":"ProfileList_Create-6","executionTime":169},{"0":{"DiskDataSet":{"AvgDiskQueueLength":0.005332075,"ReadBytesPerSecond":0.0,"WriteBytesPerSecond":1225563.5,"AvgReadPerSecond":0.0,"AvgWritePerSecond":9.465E-05}},"100":{"DiskDataSet":{"AvgDiskQueueLength":0.0,"ReadBytesPerSecond":0.0,"WriteBytesPerSecond":0.0,"AvgReadPerSecond":0.0,"AvgWritePerSecond":0.0}}}]}

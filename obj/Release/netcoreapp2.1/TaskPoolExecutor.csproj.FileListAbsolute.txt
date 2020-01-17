@@ -1,0 +1,12 @@
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\bin\Release\netcoreapp2.1\TaskPoolExecutor.deps.json
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\bin\Release\netcoreapp2.1\TaskPoolExecutor.runtimeconfig.json
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\bin\Release\netcoreapp2.1\TaskPoolExecutor.runtimeconfig.dev.json
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\bin\Release\netcoreapp2.1\TaskPoolExecutor.dll
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\bin\Release\netcoreapp2.1\TaskPoolExecutor.pdb
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\obj\Release\netcoreapp2.1\TaskPoolExecutor.csprojAssemblyReference.cache
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\obj\Release\netcoreapp2.1\TaskPoolExecutor.csproj.CoreCompileInputs.cache
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\obj\Release\netcoreapp2.1\TaskPoolExecutor.AssemblyInfoInputs.cache
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\obj\Release\netcoreapp2.1\TaskPoolExecutor.AssemblyInfo.cs
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\obj\Release\netcoreapp2.1\TaskPoolExecutor.dll
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\obj\Release\netcoreapp2.1\TaskPoolExecutor.pdb
+C:\Users\jared.paul\Desktop\projects\TaskPoolExecutor\TaskPoolExecutor\bin\Release\netcoreapp2.1\TaskPoolExecutor.dll.config

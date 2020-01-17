@@ -1,0 +1,9 @@
+/* START GetResponse
+D:\lissted.backend.net\SiteDLL\XiSiteLogic\App_Code\Services\Shared\ProfileList\Result\ProfileListResultWorker.cs
+*/
+ SELECT TOP 100  [tblProfileListResults].[profileListResult_id] AS tblProfileListResults_profileListResult_id , [tblProfileListResults].[profileList_id] AS tblProfileListResults_profileList_id , [tblProfileListResults].[profile_id] AS tblProfileListResults_profile_id , [tblProfileListResults].[predictionRecognitionScore] AS tblProfileListResults_predictionRecognitionScore , [tblProfileListResults].[predictionRecognitionScorePublic] AS tblProfileListResults_predictionRecognitionScorePublic , [tblProfileListResults].[predictionInteractionScore] AS tblProfileListResults_predictionInteractionScore , [tblProfileListResults].[predictionInteractionScorePublic] AS tblProfileListResults_predictionInteractionScorePublic , [tblProfileListResults].[predictionOverallScore] AS tblProfileListResults_predictionOverallScore , [tblProfileListResults].[predictionOverallScorePublic] AS tblProfileListResults_predictionOverallScorePublic , [tblProfileListResults].[predictionInsiderScore] AS tblProfileListResults_predictionInsiderScore , [tblProfileListResults].[predictionInsiderScorePublic] AS tblProfileListResults_predictionInsiderScorePublic , [tblProfileListResults].[followScore] AS tblProfileListResults_followScore , [tblProfileListResults].[isVip] AS tblProfileListResults_isVip , [tblProfileListResults].[isInsider] AS tblProfileListResults_isInsider , [tblProfileListResults].[rank] AS tblProfileListResults_rank 
+ FROM tblProfileListResults 
+ WHERE 1=1  AND ([tblProfileListResults].[profileList_id] IN (225)) 
+  ORDER BY tblProfileListResults.profileListResult_id Asc
+go
+/* CONTINUE GetResponse */

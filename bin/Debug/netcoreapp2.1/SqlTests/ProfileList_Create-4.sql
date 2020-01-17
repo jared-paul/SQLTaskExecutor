@@ -1,0 +1,2 @@
+INSERT INTO tblProfileLists(  [profileListType_id] ,  [userProfile_id] ,  [name] ,  [isSaved] ,  [isDeleted] ,  [isPublic] ,  [twitterUserIds] ,  [keywords] ,  [geo] ,  [maxListLength] ,  [createdTime]  ) VALUES (2, N'5c4f848ca4efe65550a062dc', N'25/06/2019 20:21:46:+00:00', 0, 0, 1,  NULL , N'london or sqltest',  NULL , 3000, '20190625 20:21:46.114') ; SELECT CAST(@@IDENTITY AS bigint) AS NewID;
+go

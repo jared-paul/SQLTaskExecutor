@@ -1,0 +1,1 @@
+{"data":[{"testName":"ProfileList_GetPublicLists-1","executionTime":72},{"0":{"DiskDataSet":{"AvgDiskQueueLength":0.01985681,"ReadBytesPerSecond":0.0,"WriteBytesPerSecond":907039.8,"AvgReadPerSecond":0.0,"AvgWritePerSecond":0.00104653335}}}]}

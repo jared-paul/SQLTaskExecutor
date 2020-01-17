@@ -1,0 +1,5 @@
+SELECT TOP 1  [tblProfileLists].[profileList_id] AS tblProfileLists_profileList_id , [tblProfileLists].[profileListType_id] AS tblProfileLists_profileListType_id , [tblProfileLists].[userProfile_id] AS tblProfileLists_userProfile_id , [tblProfileLists].[name] AS tblProfileLists_name , [tblProfileLists].[isSaved] AS tblProfileLists_isSaved , [tblProfileLists].[isDeleted] AS tblProfileLists_isDeleted , [tblProfileLists].[isPublic] AS tblProfileLists_isPublic , [tblProfileLists].[twitterUserIds] AS tblProfileLists_twitterUserIds , [tblProfileLists].[keywords] AS tblProfileLists_keywords , [tblProfileLists].[geo] AS tblProfileLists_geo , [tblProfileLists].[maxListLength] AS tblProfileLists_maxListLength , [tblProfileLists].[createdTime] AS tblProfileLists_createdTime 
+ FROM tblProfileLists 
+ WHERE 1=1  AND ( (tblProfileLists.name = N'25/06/2019 20:21:46:+00:00') AND (tblProfileLists.userProfile_id = N'5c4f848ca4efe65550a062dc') ) 
+  ORDER BY [tblProfileLists].[name]  
+go
