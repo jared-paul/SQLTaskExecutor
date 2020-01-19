@@ -2,15 +2,15 @@
 It currently just executes all SQL script files inside ./SqlTests, sends a status update to the monitor program, and when the
 query finishes, writes a report to ./SqlTest/reports/ in json format. 
 
-To Build:
+### Building:
 You must open it in VS 2019, 2015 doesn't work as microsoft changed the format of solutions.
 Once opened, you must install all dependencies (it should auto install with NuGet) and "publish" the solution.
 
-To Publish:
+### Publishing:
 Right click the c# solution and click "publish", change the folder to wherever you'd like it to build to.
 Once published you can now run the TaskPoolExecutor.dll file
 
-To Run:
+### Usage/Run:
 You must install .NET core runtime version 2.2.5 found here: https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.2.5-windows-hosting-bundle-installer
 Once installed you can open cmd and run the program from the root directory by doing "dotnet TaskPoolExecutor.dll"
 It should now run in the cmd you opened.
